@@ -10,5 +10,12 @@
   },
   "author": "",
   "license": "ISC",
-  "description": ""
+  "description": "",
+  "dependencies": {
+    "evershop": "^1.0.0-beta"
+  },
+  "engines": {
+    "node": "20.x",
+    "npm": "10.x"
+  }
 }
