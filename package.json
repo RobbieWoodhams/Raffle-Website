@@ -5,7 +5,7 @@
   "scripts": {
     "build": "evershop build --skip-minify",
     "start": "evershop start",
-    "user:create": "evershop user:create",
+    "user:create": "evershop user:create"
   },
   "author": "",
   "license": "ISC",
