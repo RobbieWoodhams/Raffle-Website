@@ -1,0 +1,10 @@
+{
+    "shop": {
+        "currency": "GBP",
+        "language": "en-GB",
+        "weightUnit": "kg"
+    },
+    "system": {
+        "theme": "default"
+    }
+}
