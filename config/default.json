@@ -6,5 +6,8 @@
     },
     "system": {
         "theme": "default"
+    },
+    "themeConfig": {
+        "copyRight": "© 2025 Express Prizes. All Rights Reserved."
     }
 }
